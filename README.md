@@ -1,0 +1,3 @@
+**PdnErrorHandling** was developed for a "C# Error Handling" presentation to the PhillyDotNet user group (<a href="https://www.meetup.com/philly-net/events/293263260/" target="_blank">https://www.meetup.com/philly-net/events/293263260</a>).  As such, there there is no documentation on offer (beyond than the included PowerPoint), nor does the author have any intent of documenting the code in the near future.
+
+**Supper-Duper Extra-Important Caveat**:  THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
