@@ -1,3 +1,5 @@
 **PdnErrorHandling** was developed for a "C# Error Handling" presentation to the PhillyDotNet user group (<a href="https://www.meetup.com/philly-net/events/293263260/" target="_blank">https://www.meetup.com/philly-net/events/293263260</a>).  As such, there there is no documentation on offer (beyond than the included PowerPoint), nor does the author have any intent of documenting the code in the near future.
 
+NOTE: Before running the **LoggingDemo**, you'll need to setup a Seq instance on your local <a href="https://learn.microsoft.com/en-us/windows/wsl/install" target="_blank">WSL2</a> instance.  (See <a href="https://docs.datalust.co/docs/getting-started-with-docker" target="_blank">https://docs.datalust.co/docs/getting-started-with-docker</a> for info on how to do just that).  Assuming you don't select a non-standard port, then the LoggingDemo should work just fine.
+
 **Supper-Duper Extra-Important Caveat**:  THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
